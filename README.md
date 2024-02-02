@@ -13,6 +13,7 @@ We also provide visualization results comparison under the white background for 
 ![可视化_matting_加红框_1](https://github.com/bing-stu/OM-NeRF/assets/56222890/907d04c5-e38d-43a8-bc0e-995610a1bc70)
 
 2、Visualization results of the comparison methods on ZJU-MoCap dataset under the experiment setting III by changing the black background to white background.
-![可视化_matting_加红框_2](https://github.com/bing-stu/OM-NeRF/assets/56222890/17138ce6-f095-490a-af89-fab79781e858)
+![可视化_matting_加红框_2](https://github.com/bing-stu/OM-NeRF/assets/56222890/76cbeb55-9eb5-4af0-9c6d-cf3ab89946bb)
+
 
 # OM-NeRF
