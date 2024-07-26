@@ -1,4 +1,9 @@
-We provide some rendered results of the proposed method in the form of a video sequence.
+We provide some rendered results of the proposed method with a moving camera in the form of a video sequence.
+![ours](https://github.com/user-attachments/assets/39288009-d87c-42a2-873e-75ba585a3848)
+![animation](https://github.com/user-attachments/assets/4da87b31-e87a-4c71-a1db-44c56a44ceb4)
+
+
+We provide some rendered results of the proposed method with a fixed camera in the form of a video sequence.
 
 ![313](https://github.com/bing-stu/OM-NeRF/assets/56222890/aa87f117-9668-4840-ac62-74d388d0e5b9) ![315](https://github.com/bing-stu/OM-NeRF/assets/56222890/2b5e5fb0-b424-425a-b139-086f99bf2631) ![377](https://github.com/bing-stu/OM-NeRF/assets/56222890/f7323a3d-5f97-4a5b-9ec2-3e5411da5aca)
 
